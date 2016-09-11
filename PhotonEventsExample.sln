@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D8952FED-3BCE-6AFB-7474-BB6401E3BB6F}") = "PhotonEventsExample", "Assembly-CSharp-firstpass.csproj", "{9DA392B8-F09D-E658-7FDB-1BD484079072}"
+EndProject
+Project("{D8952FED-3BCE-6AFB-7474-BB6401E3BB6F}") = "PhotonEventsExample", "Assembly-CSharp.csproj", "{C7333A7C-AA99-2B4D-7F59-DFDED2DA6431}"
+EndProject
+Project("{D8952FED-3BCE-6AFB-7474-BB6401E3BB6F}") = "PhotonEventsExample", "Assembly-CSharp-Editor.csproj", "{0FDFFD10-9A7E-C30C-3484-AC6F14275051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA392B8-F09D-E658-7FDB-1BD484079072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA392B8-F09D-E658-7FDB-1BD484079072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA392B8-F09D-E658-7FDB-1BD484079072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA392B8-F09D-E658-7FDB-1BD484079072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7333A7C-AA99-2B4D-7F59-DFDED2DA6431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7333A7C-AA99-2B4D-7F59-DFDED2DA6431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7333A7C-AA99-2B4D-7F59-DFDED2DA6431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7333A7C-AA99-2B4D-7F59-DFDED2DA6431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDFFD10-9A7E-C30C-3484-AC6F14275051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDFFD10-9A7E-C30C-3484-AC6F14275051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDFFD10-9A7E-C30C-3484-AC6F14275051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDFFD10-9A7E-C30C-3484-AC6F14275051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
